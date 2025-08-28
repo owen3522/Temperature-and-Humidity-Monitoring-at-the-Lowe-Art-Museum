@@ -14,8 +14,7 @@ Project for Measurements Laboratory course: analyzed temperature and humidity at
 
 
 <h2>Project Report</h2>
-[View my paper (PDF)](Temperature and Humidity Monitoring at the Lowe Art Museum.pdf)
-
+ - [READ HERE](
 <!--
  ```diff
 - text in red
